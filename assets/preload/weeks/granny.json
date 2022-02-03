@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["observed", "granny", [255, 0, 0]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "",
+
+	"storyName": "granny is coming",
+	"weekBefore": "tutorial",
+	"weekName": "granny",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
