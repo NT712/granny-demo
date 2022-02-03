@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DADDY_DEAREST.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dad Sing Note DOWN0000" x="1183" y="1626" width="417" height="602" frameX="0" frameY="-5" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="Dad Sing Note DOWN0001" x="1745" y="1637" width="417" height="602" frameX="0" frameY="-5" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="Dad Sing Note LEFT0000" x="26" y="1595" width="487" height="594"/>
+	<SubTexture name="Dad Sing Note LEFT0001" x="536" y="1592" width="520" height="602"/>
+	<SubTexture name="Dad Sing Note RIGHT0000" x="78" y="853" width="693" height="559" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>
+	<SubTexture name="Dad Sing Note RIGHT0001" x="827" y="882" width="790" height="559" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>
+	<SubTexture name="Dad Sing Note UP0000" x="70" y="2270" width="563" height="695" frameX="-1" frameY="0" frameWidth="409" frameHeight="818"/>
+	<SubTexture name="Dad Sing Note UP0001" x="790" y="2300" width="590" height="701" frameX="-1" frameY="0" frameWidth="409" frameHeight="818"/>
+	<SubTexture name="Dad idle dance0000" x="74" y="117" width="488" height="587" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="Dad idle dance0001" x="605" y="131" width="488" height="587" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="Dad idle dance0002" x="1166" y="132" width="488" height="587" frameX="0" frameY="-8" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="Dad idle dance0003" x="1734" y="164" width="488" height="587" frameX="0" frameY="-8" frameWidth="429" frameHeight="767"/>
+</TextureAtlas>
