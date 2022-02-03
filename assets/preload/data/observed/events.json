@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "granny",
+		"player1": "bf",
+		"player2": "granny",
+		"player3": null,
+		"events": [
+			[
+				15000,
+				[
+					[
+						"Play Animation",
+						"Dad Sing Note Up",
+						"dad"
+					]
+				]
+			],
+			[
+				15125,
+				[
+					[
+						"camera bounce",
+						"",
+						""
+					]
+				]
+			],
+			[
+				15250,
+				[
+					[
+						"Play Animation",
+						"Dad Sing Note Up",
+						"dad"
+					]
+				]
+			],
+			[
+				15500,
+				[
+					[
+						"Play Animation",
+						"Dad Sing Note Up",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-pixel",
+		"bpm": 120,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "observed"
+	}
+}
